@@ -1,20 +1,20 @@
 {
   "name": "sassdoc",
   "main": "./lib/sassdoc",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Generate SassDoc compliant comment blocks for SASS/SCSS development.",
   "keywords": [
-      "sassdoc",
-      "sass",
-      "scss",
-      "docbloc",
-      "comments",
-      "blocks",
-      "docs",
-      "sassdoc-generator",
-      "sassy",
-      "sussy",
-      "brocolli"
+    "sassdoc",
+    "sass",
+    "scss",
+    "docbloc",
+    "comments",
+    "blocks",
+    "docs",
+    "sassdoc-generator",
+    "sassy",
+    "sussy",
+    "brocolli"
   ],
   "activationCommands": {
     "atom-workspace": "sassdoc:toggle"
@@ -24,6 +24,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
